@@ -1,0 +1,11 @@
+#Tue Nov 15 08:08:15 IST 2022
+ct=jbt
+a=finishWizard
+c=0
+s=2
+d=1668479895720
+v=2.2.500
+vl=How many times the 'Finish' button pressed during the day
+cmp=usage
+cl=org.jboss.tools.jst.web.ui.palette.html.jquery.wizard.NewHeadingWizard
+l=Wizard class name
